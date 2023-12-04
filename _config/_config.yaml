@@ -1,0 +1,8 @@
+model_knn_cnt: 3
+model_location: ~/llm/gpt4all-falcon-q4_0.gguf
+retrieval_qa_thread_count: 8
+retrieval_qa_type: stuff
+vector_db_default_table: qa_table
+vector_db_default_location: /tmp/vss4.db
+
+
