@@ -1,10 +1,10 @@
 <br>
 
-# Welcome to Rag 👋
+# Welcome to Rag demo👋
 
 **Demo for RAG (Retriever-Augmented Generation) Flow**
 
-This project introduces an advanced Retriever-Augmented Generation (RAG) system designed to perform sophisticated question-answering tasks. The unique feature of this system is its ability to incorporate user-uploaded documents into the LLM's memory. This enhancement allows for a more personalized and context-rich interaction, as the model can retrieve information from a specific set of documents provided by the user, making it highly relevant and accurate for specialized queries.
+This project introduces a Retriever-Augmented Generation (RAG) system designed to perform sophisticated question-answering tasks. The unique feature of this system is its ability to incorporate user-uploaded documents into the LLM's memory. This enhancement allows for a more personalized and context-rich interaction, as the model can retrieve information from a specific set of documents provided by the user, making it highly relevant and accurate for specialized queries.
 
 ## Installation
 
